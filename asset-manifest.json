@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UdaysharathOfficial/Student-Manager.git/static/css/main.0a35372f.css",
+    "main.js": "/UdaysharathOfficial/Student-Manager.git/static/js/main.c9b30732.js",
+    "static/js/787.9e0c1f39.chunk.js": "/UdaysharathOfficial/Student-Manager.git/static/js/787.9e0c1f39.chunk.js",
+    "index.html": "/UdaysharathOfficial/Student-Manager.git/index.html",
+    "main.0a35372f.css.map": "/UdaysharathOfficial/Student-Manager.git/static/css/main.0a35372f.css.map",
+    "main.c9b30732.js.map": "/UdaysharathOfficial/Student-Manager.git/static/js/main.c9b30732.js.map",
+    "787.9e0c1f39.chunk.js.map": "/UdaysharathOfficial/Student-Manager.git/static/js/787.9e0c1f39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a35372f.css",
+    "static/js/main.c9b30732.js"
+  ]
+}
