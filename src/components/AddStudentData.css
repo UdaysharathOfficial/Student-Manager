@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Russo One');
+
+.add-data h1{
+    font-family: 'Russo One';
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(127, 56, 209);
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.add-data h1:hover{
+    cursor: pointer;
+    color: rgb(141, 193, 206);
+}
+
+.form-floating{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+.form-data{
+    background-color: bisque;
+    margin-left: 15%;
+    margin-right: 20%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-radius: 50px;
+}
+
+.form-floating input{
+    width: 300px;
+    height: 50px;
+}
+
+.form-floating select{
+    width: 300px;
+    height: 50px;
+}
+
+.form-check input{
+    width: 15px;
+    height: 15px;
+    margin-top: 6px;
+}
+
+.check{
+    margin-left: 250px;
+    margin-top: 10px;
+}
+
+.submit{
+    margin-left: 250px;
+}

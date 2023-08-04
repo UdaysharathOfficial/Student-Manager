@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "firstName": "Gattu",
+      "lastName": "Uday Sharath",
+      "City": "Hyderabad",
+      "Branch": "CSE",
+      "Emailid": "udaysharathofficial@gmail.com",
+      "MobileNumber": "udaysharathofficial@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "Gattu",
+      "lastName": "Uday Sharath",
+      "City": "uppal",
+      "Branch": "",
+      "Emailid": "udaysharathofficial@gmail.com",
+      "MobileNumber": "",
+      "id": 2
+    }
+  ]
+}

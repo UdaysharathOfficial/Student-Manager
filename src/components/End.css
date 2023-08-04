@@ -1,0 +1,14 @@
+.End{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(5, 61, 99);
+    color: whitesmoke;
+    padding: 80px;
+    margin-top: 20px;
+}
+
+.End img{
+    width: auto;
+    height: 70px;
+}

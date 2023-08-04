@@ -1,0 +1,32 @@
+.nav-link{
+  color: rgb(18, 94, 94);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+.nav-link:hover{
+  color: rgb(204, 32, 89);
+}
+
+.navbar-brand img{
+  width: auto;
+  height: 50px;
+}
+
+.navbar-nav{
+  display: flex;
+  justify-content: space-between;
+  column-gap: 40px;
+}
+
+.dropdown img{
+  width: auto;
+  height: 40px;
+  cursor: pointer;
+  margin-right: 110px;
+}
+
+
+
+
+
